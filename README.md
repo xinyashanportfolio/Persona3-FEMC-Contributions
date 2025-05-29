@@ -1,6 +1,3 @@
-# Persona3-FEMC-Contributions
-Kotone Dialogue Enhancements - Five different scenes
-
 # ✨ Persona 3 Reload: FEMC Project – Contribution by Xinya Shan
 
 🎮 I contributed to the **Femc Reloaded Project**, a fanmade mod that adds **Kotone (FeMC)** back into *Persona 3 Reload* for PC.
@@ -37,8 +34,7 @@ This project showcases my personal dialogue enhancements across **five unique in
 > Dorm intro, Classroom, Tartarus, Koromaru, and Maiko interactions.  
 > All scenes were tested for emotional tone, stability, and continuity.
 
-🟢 Pull request submitted: [View PR on GitHub](https://github.com/MadMax1960/FemcReloaded/pull/XYZ)  
-(Replace with your actual pull request link!)
+🟢 Pull request submitted: [View PR on GitHub](https://github.com/MadMax1960/FemcReloaded/pull/XYZ)
 
 ---
 
